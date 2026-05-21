@@ -37,8 +37,7 @@ To run this pipeline locally or in your own environment, you will need:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/sumit0641/CI-CD-pipeline-for-a-simple-full-stack-app-
 
 ```
 
